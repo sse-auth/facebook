@@ -1,21 +1,22 @@
 {
-  "name": "@sse-auth/repotem",
+  "name": "@sse-auth/facebook",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/facebook.d.ts",
   "scripts": {
     "build": "tsc"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sse-auth/repotem.git"
+    "url": "git+https://github.com/sse-auth/facebook.git"
   },
   "author": "SSE World",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sse-auth/repotem/issues"
+    "url": "https://github.com/sse-auth/facebook/issues"
   },
-  "homepage": "https://github.com/sse-auth/repotem#readme",
+  "homepage": "https://github.com/sse-auth/facebook#readme",
   "dependencies": {
     "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",
